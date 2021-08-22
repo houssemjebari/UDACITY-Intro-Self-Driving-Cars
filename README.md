@@ -5,7 +5,7 @@ In this repository you can find my own solutions to the Flying Car Nanodegree Pr
 * **Description**: Work on self-driving car problems using Python, C++, matrices and calculus in code, and computer vision/machine learning.
 
 
-The projects are listed as below:
+## The projects
 
 * **Project 2** : Implement Matrix Class
 * **Project 3** : Translate Python to C++
